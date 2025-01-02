@@ -1,5 +1,13 @@
 # Basic TodoList App with Swift UI
 
+A simple and intuitive Todo List application built with SwiftUI. This app allows users to create, manage, and track their tasks.
+
+## How to run the app
+
+1. Clone the repository
+2. Open the project in Xcode
+3. Run the project
+
 ## App Screenshots
 
 <div style="display: flex; justify-content: space-between;">
